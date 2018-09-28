@@ -1,0 +1,21 @@
+泛型
+webservice
+axis 
+cx
+soapui 
+postman测试工具
+activemq
+webservice axis cxf
+postgresql  数据库（left join 视图 分区 分表 规则 触发器 索引 执行计划）
+容器
+队列
+线程池（实现原理）
+信号量
+闭锁
+拦截器 过滤器
+断言
+
+ SQL语句的执行顺序
+
+ (5)select  列a  ， 聚合函数  （1） from 表    （2）  where 过滤条件    （3）  group by  列a  （4）  having   聚合函数过滤条件  （6） order   by
+

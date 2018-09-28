@@ -1,0 +1,43 @@
+https://www.cnblogs.com/zhangpengshou/p/5366413.html
+
+
+
+  
+ctrl+1              导入包，自动修正  .
+Ctrl+Shift + Enter 语句完成（补全当前行）   
+Alt+/	提示词 （默认自动完成） .
+Shift+F6	重命名
+Ctrl+F6	更改函数签名
+Ctrl+Shift+F6	更改类型
+Ctrl+shift+v  格式化     .
+Ctrl+shift+x   调出最近复制的N份内容
+Ctrl+H 显示类结构图
+Ctrl+D  复制当前行到下一行
+Ctrl+Alt+I      自动缩进
+Ctrl+Alt+T     将选中的代码使用if、while、for、try/catch等包装
+Ctrl+I      实现基类或接口中的方法 
+Ctrl+O          重写基类的方法
+ctrl+shift+f   当前项目查找包含特定内容的文件
+ctrl+N         查找特定的类
+双击shift         在项目的所有目录查找文件
+ctrl+B             跳转到方法定义处
+Ctrl+Alt+B         跳转到方法实现处
+ALT+ ↑/↓           在方法间快速移动定位  
+CTRL+ALT+ left/right  前后导航编辑过的地方 
+ctrl+H               显示一个类/接口的继承关系 或者他们的子类
+CTRL+B/右键find usages       找到所有用到这个类对象的 类
+Alt+insert              插入构造函数或者set\get函数
+ctrl+Shift+T                  创建测试函数
+ctrl+X                       删除当前行
+Ctrl+G						跳转到指定行
+
+
+
+for循环快捷键
+
+for   for循环
+I     增强for循环
+itar   遍历数组的for循环
+
+
+AppCache.getSelfInfo().getType().equals(selfSysInfo.getType())

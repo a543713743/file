@@ -1,0 +1,49 @@
+boss直聘 拉钩
+
+
+css
+接口
+树 ssm框架
+设计模式    适配器模式
+内部类
+interger
+scanner
+ioc容器
+http tcp udp 三次握手 四次挥手
+ajax
+注解
+迭代器 iterator
+反射 √
+UML
+多线程
+io流
+数组 长度的问题
+容器
+递归
+XML
+cookies 和sessions
+comparator和comparable的区别
+数据结构与算法 Arrylist和Linkedlist 二叉树  散列排序 hashcode()
+线程池
+常量池
+连接池
+字符串池
+垃圾回收机制
+抽象类和接口存在意义
+多表联查
+aop
+linux
+springMVC
+struts2
+重定向
+高并发
+压力测试
+
+  SQL语句的执行顺序
+
+ (5)select  列a  ， 聚合函数  （1） from 表    （2）  where 过滤条件    （3）  group by  列a  （4）  having   聚合函数过滤条件  （6） order   by
+
+
+
+
+

@@ -1,0 +1,5 @@
+源码路径： https://192.0.0.241/iSMS-Platform/branches/petrel/V2.8/南昌分公司/IPM20180225063_赣州市安远县农商行加钞间门禁改造项目/KF20180402_029/CMS
+
+发布路径  https://192.0.0.241/iSMS-Delivery/branches/petrel/V2.8/南昌分公司/IPM20180225063_赣州市安远县农商行加钞间门禁改造项目/KF20180402_029 
+
+安装包路径 https://192.0.0.241/iSMS-Delivery/branches/petrel/V2.8/南昌分公司/IPM20170825194_九江市农商行门禁系统项目/KF20171124_038/软件发布
